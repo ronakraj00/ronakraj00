@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ronak Raj</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakraj00&label=Profile%20views&color=0e75b6&style=flat" alt="ronakraj00" /> </p>
 
@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **ronakrajparas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+linkedIn: www.linkedin.com/in/ronak-raj-0b57a7188 </h3>
 <p align="left">
 </p>
 
