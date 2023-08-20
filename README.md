@@ -13,7 +13,7 @@
 - 📫 How to reach me **ronakrajparas@gmail.com**
 
 <h3 align="left">Connect with me:
-linkedIn: <a>www.linkedin.com/in/ronak-raj-0b57a7188 </a></h3>
+linkedIn: <a href="www.linkedin.com/in/ronak-raj-0b57a7188">www.linkedin.com/in/ronak-raj-0b57a7188 </a></h3>
 <p align="left">
 </p>
 
