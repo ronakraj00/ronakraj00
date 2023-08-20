@@ -6,14 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakraj00" alt="ronakraj00" /></a> </p>
 
-- 🔭 I’m currently working on **ToDo**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nothing**
 
 - 📫 How to reach me **ronakrajparas@gmail.com**
 
 <h3 align="left">Connect with me:
-linkedIn: www.linkedin.com/in/ronak-raj-0b57a7188 </h3>
+linkedIn: <a>www.linkedin.com/in/ronak-raj-0b57a7188 </a></h3>
 <p align="left">
 </p>
 
