@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **BattleShip**
 
-- 🌱 I’m currently learning **React**
+- 🌱 And learning **React**
 
-- 📫 How to reach me **ronakrajronak7@gmail.com**
+- 📫 You can reach me **ronakrajronak7@gmail.com**
 
 <h3 align="left">Connect with me:
 linkedIn: <a href="www.linkedin.com/in/ronak-raj-0b57a7188">www.linkedin.com/in/ronak-raj-0b57a7188 </a></h3>
