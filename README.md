@@ -10,7 +10,7 @@
 
 - 🌱 And learning **React**
 
-- 📫 You can reach me **ronakrajronak7@gmail.com**
+- 📫 You can reach me **contactronakraj@gmail.com**
 
 <h3 align="left">Connect with me:
 linkedIn: <a href="www.linkedin.com/in/ronak-raj-0b57a7188">www.linkedin.com/in/ronak-raj-0b57a7188 </a></h3>
