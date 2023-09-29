@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakraj00" alt="ronakraj00" /></a> </p>
 
-- 🔭 I’m currently working on **BattleShip**
+- 🔭 I’m currently working on **Swiggy Clone**
 
 - 🌱 And learning **React**
 
