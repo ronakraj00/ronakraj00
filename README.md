@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ronak Raj</h1>
-<h3 align="center">...</h3>
+<h3 align="center"></h3>
 <h3>Buy Me A Coffee <a href="https://www.buymeacoffee.com/ronakraj">☕buymeacoffee☕</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakraj00&label=Profile%20views&color=0e75b6&style=flat" alt="ronakraj00" /> </p>
 
