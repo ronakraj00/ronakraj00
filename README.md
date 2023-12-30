@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakraj00" alt="ronakraj00" /></a> </p>
 
-- 🔭 I’m currently working on **Swiggy Clone**
+- 🔭 I’m currently working on **Something Awesome**
 
-- 🌱 And learning **React**
+- 🌱 And learning **Every Thing I Like**
 
 - 📫 You can reach me **contactronakraj@gmail.com**
 
